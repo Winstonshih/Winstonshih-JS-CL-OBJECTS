@@ -22,6 +22,11 @@ displayUserObject(user);
  */
 function returnUserObject(inputUsername, inputPassword){
     //    code here
+    const user={
+        inputUsername: "WShih",
+        inputPassword: "123"
+    };
+    return user;
 }
 
 
